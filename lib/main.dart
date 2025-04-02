@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:localstorage/localstorage.dart';
 import 'package:provider/provider.dart';
-
 import 'home_screen.dart';
 import 'student_provider.dart';
 
